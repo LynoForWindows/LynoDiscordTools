@@ -14,6 +14,7 @@ pip install datetime
 pip install pystyle
 pip install colorama
 pip install requests
+pip install tls_client
 ```
 # Steps
 - Step 1 : Extract The File Using WinRar **Password is : 2023**
